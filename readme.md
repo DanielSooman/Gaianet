@@ -1,3 +1,4 @@
+```
 # Install dependencies and GaiaNet node
 !curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
 
@@ -13,3 +14,4 @@ os.environ['PATH'] += ':/root/.local/bin'
 
 # Check Node ID & Device ID
 !gaianet info
+```
